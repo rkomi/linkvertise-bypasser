@@ -62,7 +62,7 @@ const Home: NextPage = () => {
             <p className="mt-1 text-[0.6rem] opacity-50 text-center">
               Made by{"  "}
               <span className="text-[#6b6ecc]">
-                <strong>WendoJ#9239 | 591702761972695041</strong>
+                <strong>K0M1</strong>
               </span>
             </p>
           </form>
